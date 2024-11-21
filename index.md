@@ -1,6 +1,6 @@
  # Harshvardhan
  ---
- ![](https://static.vecteezy.com/system/resources/thumbnails/020/765/399/small/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg)
+ ![Profile picture](https://static.vecteezy.com/system/resources/thumbnails/020/765/399/small/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg)
  
  ---
  **About**
@@ -17,10 +17,10 @@
  ---
  ### Education
 
-| **Degree**                 | **Institution**   | **Year**       | **Score/CGPA** |
+| **Degree**                 | **Institution**   | **Period**     | **Score/CGPA** |
 |----------------------------|-------------------|----------------|----------------|
 | B.Tech in Computer Science | MNIT Jaipur       | 2023 - 2027    | 8.0 CGPA       |
-| High School                | XYZ School        | 2021           | 95.8%          |
+| Schooling                  | KVS Jodhpur       | 2005 - 2023    | 94.8%          |
 
 
  ---
