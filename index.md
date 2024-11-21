@@ -6,8 +6,8 @@
  **About**
  Hardworking software engineer currently working in atlassin as SDE-2. Can easily adapt different and new technologies and grasp industry fluctuations. Eager to meet new opportunities.
  
- Phone- 9998887776
- Email- prajapatiharshvardhan875@gmail.com
+ >Phone- 9998887776
+ >Email- prajapatiharshvardhan875@gmail.com
  
  Useful links
  >[LinkedIn](https://www.linkedin.com/in/harshvardhan-prajapati-343a70319/)
