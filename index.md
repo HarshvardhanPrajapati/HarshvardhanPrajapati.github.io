@@ -38,10 +38,10 @@
 
 __Projects__
 
-[x] Trained a machine learning model that reccommends movies.
-[x] Trained a model capable of segregating spam emails and ham emails.
-[ ] A website that lets users interact for movies, get recommendations, add reviews and ratings
-[ ] A platform where students can talk but any offensive message gets taken down immediately.
+- [x] Trained a machine learning model that reccommends movies.
+- [x] Trained a model capable of segregating spam emails and ham emails.
+- [ ] A website that lets users interact for movies, get recommendations, add reviews and ratings
+- [ ] A platform where students can talk but any offensive message gets taken down immediately.
 
  ---
  
