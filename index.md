@@ -16,11 +16,11 @@
  
  ---
  **Educational Background**
-| Institute | Duration |Course| Location |
-|-----------|----------|-|---------|
-|Kendriya Vidyalaya | 2005-2023| Schooling | Jodhpur |
-| MNIT | 2023-2027|Btech | Jaipur |
-|IITD | 2027-2029 |Mtech| Delhi|
+| Institute | Duration | Course| Location |
+| ----------- | ---------- | - | --------- |
+| Kendriya Vidyalaya | 2005-2023| Schooling | Jodhpur |
+| MNIT | 2023-2027 | Btech | Jaipur |
+| IITD | 2027-2029 | Mtech | Delhi |
  ---
  
  __Skills__
