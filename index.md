@@ -15,12 +15,14 @@
  >[Github](https://github.com/HarshvardhanPrajapati)
  
  ---
- **Educational Background**
-| Institute | Duration | Course| Location |
-| ----------- | ---------- | - | --------- |
-| Kendriya Vidyalaya | 2005-2023| Schooling | Jodhpur |
-| MNIT | 2023-2027 | Btech | Jaipur |
-| IITD | 2027-2029 | Mtech | Delhi |
+ ### Education
+
+| **Degree**                 | **Institution**   | **Year**       | **Score/CGPA** |
+|----------------------------|-------------------|----------------|----------------|
+| B.Tech in Computer Science | MNIT Jaipur       | 2023 - 2027    | 8.0 CGPA       |
+| High School                | XYZ School        | 2021           | 95.8%          |
+
+
  ---
  
  __Skills__
